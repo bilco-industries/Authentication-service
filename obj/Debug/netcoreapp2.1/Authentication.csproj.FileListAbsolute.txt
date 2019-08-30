@@ -1,0 +1,9 @@
+B:\programming\Projects\Authentication\bin\Debug\netcoreapp2.1\Authentication.deps.json
+B:\programming\Projects\Authentication\bin\Debug\netcoreapp2.1\Authentication.dll
+B:\programming\Projects\Authentication\bin\Debug\netcoreapp2.1\Authentication.pdb
+B:\programming\Projects\Authentication\obj\Debug\netcoreapp2.1\Authentication.csprojAssemblyReference.cache
+B:\programming\Projects\Authentication\obj\Debug\netcoreapp2.1\Authentication.csproj.CoreCompileInputs.cache
+B:\programming\Projects\Authentication\obj\Debug\netcoreapp2.1\Authentication.AssemblyInfoInputs.cache
+B:\programming\Projects\Authentication\obj\Debug\netcoreapp2.1\Authentication.AssemblyInfo.cs
+B:\programming\Projects\Authentication\obj\Debug\netcoreapp2.1\Authentication.dll
+B:\programming\Projects\Authentication\obj\Debug\netcoreapp2.1\Authentication.pdb
